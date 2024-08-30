@@ -56,7 +56,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Project Maintainer**: Oyedokun Kehinde
 - **Email**: oyedokunken@gmail.com
-- **GitHub**: [your-username](https://github.com/your-username)
+- **GitHub**: [Oyedokun Kehinde]([https://github.com/your-username](https://github.com/Oyedokun-Kehinde))
 
 ## Acknowledgements
 
