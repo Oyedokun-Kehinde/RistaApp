@@ -54,8 +54,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- **Project Maintainer**: Your Name
-- **Email**: your-email@example.com
+- **Project Maintainer**: Oyedokun Kehinde
+- **Email**: oyedokunken@gmail.com
 - **GitHub**: [your-username](https://github.com/your-username)
 
 ## Acknowledgements
